@@ -10,7 +10,7 @@ Prerequisites
 
 Instructions
 ------------
-To run the program, run entertainment_center.py in the termal
+To execute the app, run entertainment_center.py in the python terminal
 
 Credit
 ------
