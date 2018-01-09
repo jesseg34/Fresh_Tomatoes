@@ -1,12 +1,12 @@
 Fresh Tomatoes
 ---------------
-A movie trailer site displaying some of my favorite movies.
-This app was written In Python 3.6.
+* A movie trailer site displaying some of my favorite movies.
+* This app was written In Python 3.6.
 
 Prerequisites
 -------------
-A modern web browser
-Pyton 3.6.x
+* A modern web browser
+* Pyton 3.6.x
 
 Instructions
 ------------
